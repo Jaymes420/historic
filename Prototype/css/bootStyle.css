@@ -1,0 +1,166 @@
+.jumbotron {
+    background-image: url(/img/placeholder.jpg);
+     background-repeat: no-repeat; 
+     background-size: cover;
+    border-bottom: 10px double gold;
+    height: 250px;
+}
+
+.btn-primary {
+    background-color: #ccc;
+    border: 1px solid #ccc;
+}
+
+.btn-danger {
+    background-color: #ccc;
+}
+
+
+.display-3 {
+    font-family: "VT323", monospace;
+    font-size: 5em;
+    color: #955001;
+    
+}
+
+.lead {
+    font-family: "VT323", monospace;
+    color: #955001;
+    font-size: 1.3em;
+    
+}
+
+.container {
+    margin-left: 400px;
+}
+.btn-danger {
+    font-size: 1.6em;
+    background-color: grey;
+    border: 2px solid #6a3703;
+    font-family: "VT323", monospace;
+    width: 200px;
+    
+}
+
+.btn-danger:hover {
+  color: #fff;
+  background-color: #955001;
+  border-color: #bd2130;
+    border: 2px solid  #0b9001;
+}
+    
+body {
+     /* background-color: #955001;  */
+     background-image: url(../img/bg-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.card {
+    border: 5px solid #6a3703;
+    background-color: gray;
+}
+
+.card-img-top {
+    max-width: 100%;
+    max-height: inherit;
+}
+.card-title {
+    color: black;
+    font-family: "VT323", monospace;
+    font-size: 2em;
+    
+    
+}
+
+.card-text {
+    font-family: "VT323", monospace;
+    color: black;
+    
+    
+}
+
+.col-sm-12 {
+    color: #955001;
+     font-family: "VT323", monospace;
+    font-size: 3em;
+    
+    
+}
+
+.tab-content {
+    padding: 10px;
+    background-color: #82dffe;
+    border-radius: 50px;
+        border: 3px solid #955001;
+}
+
+.hm-gradient {
+    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+}
+.navbar .dropdown-menu a:hover {
+    color: #616161 !important;
+}
+.darken-grey-text {
+    color: #2E2E2E;
+}
+
+.bg-info {
+    background-color: #6097fe;
+}
+
+.topnav {
+    background-color: #8d92fa;
+     
+}
+
+.nav-pills active {
+     background-color: #8d92fa;
+    
+}
+
+.tab-pane p {
+    font-family: "VT323", monospace;
+    color: #955001;
+}
+
+.tab-pane h3 {
+    color: #955001;
+    font-family: "VT323", monospace;
+    font-size: 3em;
+}
+
+.nav-link.active, {
+    
+    background-color: brown;
+}
+
+.heading {
+    text-align:center;
+}
+
+ul li {
+    
+    font-family: "VT323", monospace;
+    font-size: 1.2em;
+}
+
+.blank {
+    width: 400px;
+}
+.nav-pills .nav-link.active {
+    background-color: #955001;
+}
+
+.nav-pills a {color: #0b9001;
+    font-family: "VT323", monospace;
+    font-size: 1.2em;
+    
+}
+
+.container2 {
+    margin: 05%;
+    padding: 10px;
+}
